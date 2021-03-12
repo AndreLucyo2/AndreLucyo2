@@ -11,7 +11,7 @@ Analista de sistemas | Estudante de tecnologia | .net C# + wpf , SQL, Java, Api 
 Desenvolvendo um projeto pessoal em C# com WPF + Sql Server / Postgres.    
 Estudando Flutter + dart.     
 Estudando API Rest com Java Spring Boot. 
-Modelagem da dos Entidade Relacional.
+Modelagem de Banco de dados - Entidade Relacional.
 
 ## Visitas
 
