@@ -8,8 +8,8 @@ Analista de sistemas | Estudante de tecnologia | .net C# + wpf , SQL, Java, Api 
 💬 Sobre Mim  
 
 # Atividades: 
-Desenvolvendo um projeto pessoal em C# com WPF + Sql Server / Postgres.    
-Estudando Flutter + dart.     
+Desenvolvendo um projeto pessoal TCC em C# com WPF + Sql Server / Postgres.    
+Estudando automatização de testes com Cypress.     
 Estudando API Rest com Java Spring Boot. 
 Modelagem de Banco de dados - Entidade Relacional.
 
