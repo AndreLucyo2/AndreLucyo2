@@ -3,7 +3,7 @@
 
 # Andre Lucio
 
-Analista de sistemas | Estudante de tecnologia | .net C# + wpf , SQL, Java, Api Rest | Mobile - Flutter + dart
+Analista de sistemas | Estudante de tecnologia | HTML + js + node , .net C# + wpf , SQL, Java, Api Rest | Mobile - Flutter + dart
 
 💬 Sobre Mim  
 
