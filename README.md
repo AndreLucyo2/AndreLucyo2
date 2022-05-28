@@ -3,12 +3,12 @@
 
 # Andre Lucio
 
-Analista de sistemas | Estudante de tecnologia | HTML + js + node , .net C# + wpf , SQL, Java, Api Rest | Mobile - Flutter + dart
+Analista Q.A | Analista de sistemas | Estudante de tecnologia | HTML + js + node , .net C# + wpf , SQL, Java, Api Rest | Mobile - Flutter + dart
 
 💬 Sobre Mim  
 
 # Atividades: 
-Desenvolvendo um projeto pessoal TCC em C# com WPF + Sql Server / Postgres.    
+Metodos de garantia da qualidade em desenvolvimento de Software
 Estudando automatização de testes com Cypress.     
 Estudando API Rest com Java Spring Boot. 
 Modelagem de Banco de dados - Entidade Relacional.
