@@ -9,8 +9,8 @@ Analista Q.A | Analista de sistemas | Estudante de tecnologia | HTML + js + node
 
 # Atividades: 
 Metodos de garantia da qualidade em desenvolvimento de Software
-Estudando automatização de testes com Cypress.     
-Estudando API Rest com Java Spring Boot. 
+Automação de testes com Cypress.     
+Testes de API via Postman.
 Modelagem de Banco de dados - Entidade Relacional.
 
 <!--
