@@ -13,10 +13,6 @@ Estudando automatização de testes com Cypress.
 Estudando API Rest com Java Spring Boot. 
 Modelagem de Banco de dados - Entidade Relacional.
 
-## Visitas
-
-![Visitas](https://visitor-badge.glitch.me/badge?page_id=AndreLucyo2.AndreLucyo2)
-
 <!--
 **AndreLucyo2/AndreLucyo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
