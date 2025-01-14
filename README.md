@@ -7,11 +7,11 @@ Analista Q.A | Analista de sistemas | Estudante de tecnologia | HTML + js + node
 
 💬 Sobre Mim  
 
-# Atividades: 
-Metodos de garantia da qualidade em desenvolvimento de Software
+# Atividades:   
+Metodos de garantia da qualidade em desenvolvimento de Software  
 Automação de testes com Cypress.     
-Testes de API via Postman.
-Modelagem de Banco de dados - Entidade Relacional.
+Testes de API via Postman.  
+Modelagem de Banco de dados - Entidade Relacional.  
 
 <!--
 **AndreLucyo2/AndreLucyo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
